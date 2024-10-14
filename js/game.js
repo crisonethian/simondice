@@ -33,7 +33,7 @@ const juego = () => {
         return sonido;
     }
     const partidoEn16 = (Math.PI * 2) / 16;
-    const centroX = 175, centroY = 200;
+    const centroX = 170, centroY = 180;
     const radioCirculo = 150;
     const radioCuarto = 120;
     const radioCirculoCentral = 40;
